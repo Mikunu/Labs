@@ -1,0 +1,4 @@
+﻿  saitovlaboop3.cpp
+C:\Users\rusla\source\repos\saitovlaboop3\saitovlaboop3\saitovlaboop3.cpp(82,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\rusla\source\repos\saitovlaboop3\saitovlaboop3\saitovlaboop3.cpp(83,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  saitovlaboop3.vcxproj -> C:\Users\rusla\source\repos\saitovlaboop3\Debug\saitovlaboop3.exe
